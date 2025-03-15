@@ -28,3 +28,8 @@ This project aims to predict property prices in São Paulo using machine learnin
     ```bash
     python main.py
     ```
+
+
+## Result
+
+![Prediction Results](.github/prediction_results.png)
